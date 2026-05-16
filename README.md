@@ -1,6 +1,19 @@
+<!-- TOP: starfield drift — twinkling, dark space to cyan -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,30:0a1628,70:0f3460,100:00d4ff&height=100&section=header&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zernanvash">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%3E+developer;%3E+game+dev;%3E+builder;%3E+turning+ideas+into+things+that+run" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 # 👋 Hi, I'm Zernan
 
-I'm a CS student who enjoys building things — web apps, games, and tools. Currently diving deeper into computer science fundamentals, reverse engineering, and game development.
+I'm a CS student from the Philippines who enjoys building things — web apps, games, and tools. Currently diving deeper into computer science fundamentals, reverse engineering, and game development.
 
 - 🎮 Exploring **game development**
 - 🔬 Learning **computer science** & **reverse engineering**
@@ -42,9 +55,10 @@ I'm a CS student who enjoys building things — web apps, games, and tools. Curr
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zernanvash&style=flat-square&color=0f3460&label=visitors" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zernanvash&style=flat-square&color=0f3460&label=visitors" />
 </p>
 
+<!-- BOTTOM: starfield drift — flipped, cyan to dark -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0f3460,100:0d1117&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,30:0f3460,70:0a1628,100:020818&height=100&section=footer&animation=twinkling"/>
 </p>
