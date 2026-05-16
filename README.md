@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/zernanvash">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%3E+developer+%2F+game+dev+%2F+builder;%3E+turning+ideas+into+things+that+run" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%3E+developer;%3E+game+dev;%3E+builder;%3E+turning+ideas+into+things+that+run" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 # /etc/zernanvash/profile.yaml
 
 identity:
-  handle: Zernan Vash Arive
+  handle: zernanvash
   status: online
   location: PH 🇵🇭
 
@@ -25,13 +25,10 @@ current_ops:
 
 interests:
   - game_development
-  - 3d_modelling
   - software_engineering
-  - reverse_engineering
-  - full_stack_development
 
 stack:
-  languages: [JavaScript, C++, PHP, Python]
+  languages: [JavaScript, C++, Blade, Python]
   domains:   [Web Dev, Game Dev, Algorithms]
 ```
 
