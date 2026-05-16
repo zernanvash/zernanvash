@@ -1,16 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4ff&height=110&section=header&text=zernanvash&fontSize=36&fontColor=00d4ff&fontAlignY=65&animation=twinkling&desc=//%20init%20connection...&descAlignY=85&descSize=13&descColor=8b949e"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zernanvash">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%3E+developer;%3E+game+dev;%3E+builder;%3E+turning+ideas+into+things+that+run" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### 👋 Hi, I'm Zernan
+# 👋 Hi, I'm Zernan
 
 I'm a CS student who enjoys building things — web apps, games, and tools. Currently diving deeper into computer science fundamentals, reverse engineering, and game development.
 
