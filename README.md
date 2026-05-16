@@ -1,108 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4ff&height=180&section=header&text=zernanvash&fontSize=90&fontColor=00d4ff&fontAlignY=60&desc=developer%20|%20game%20dev%20enthusiast" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/zernanvash">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%3E+developer;%3E+game%20dev;%3E+full%20stack%20engineer" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00d4ff?style=flat-square&logo=status&logoColor=00d4ff" />
-  <img src="https://img.shields.io/badge/LOCATION-PH%20%F0%9F%87%B5%F0%9F%87%AD-0f3460?style=flat-square" />
-  <img src="https://img.shields.io/badge/FOCUS-GAME%20DEV-00d4ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/MODE-BUILDING-0f3460?style=flat-square" />
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=zernanvash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=zernanvash&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zernanvash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=zernanvash&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## `profile.yaml`
-
-```yaml
-# /etc/zernanvash/profile.yaml
-
-identity:
-  handle: zernanvash
-  status: online
-  location: PH 🇵🇭
-
-current_ops:
-  - building: web apps & games
-  - learning: computer science, game development
-  - exploring: reverse engineering
-
-interests:
-  - game_development
-  - software_engineering
-  - reverse_engineering
-  - numerical_methods
-  - full_stack_development
-
-stack:
-  languages: [JavaScript, C++, Blade, Python]
-  domains:   [Web Dev, Game Dev, Algorithms]
-```
-
----
-
-## ⟨ tech stack ⟩
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,git,github,vscode,linux,python,figma&theme=dark&perline=10" />
-</p>
-
-**Languages & Tools:** JavaScript • C++ • Python • Blade • Git • Linux • VS Code • HTML/CSS
-
----
-
-## ⟨ contribution activity ⟩
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zernanvash&bg_color=0d1117&color=00d4ff&line=0f3460&point=00d4ff&area=true&area_color=0f3460&hide_border=true&radius=8" />
-</p>
-
----
-
-## ⟨ projects ⟩
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/zernanvash/numerical-method-solver">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zernanvash&repo=numerical-method-solver&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&show=owner" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/zernanvash/NearBaYan-BETA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zernanvash&repo=NearBaYan-BETA&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&show=owner" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⟨ stats ⟩
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zernanvash&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zernanvash&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=8&layout=compact" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zernanvash&style=flat-square&color=00d4ff&label=PROFILE%20VIEWS" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0f3460,100:0d1117&height=100&section=footer&text=%2F%2F%20end%20of%20transmission&fontSize=16&fontColor=8b949e&fontAlign=50" />
-</p>
-
-<p align="center">
-  <code>zernanvash</code> • <a href="https://github.com/zernanvash">github.com/zernanvash</a> ✦
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
