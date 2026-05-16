@@ -1,19 +1,3 @@
-<!-- TOP: radar scan — fadeIn, deep green matrix tones -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020c02,40:003300,80:005500,100:00ff41&height=6&section=header&animation=fadeIn"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c02,50:003300,100:00ff41&height=90&section=header&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zernanvash">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%3E+developer;%3E+game+dev;%3E+builder;%3E+turning+ideas+into+things+that+run" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 # 👋 Hi, I'm Zernan
 
 I'm a CS student from the Philippines who enjoys building things — web apps, games, and tools. Currently diving deeper into computer science fundamentals, reverse engineering, and game development.
@@ -57,15 +41,3 @@ I'm a CS student from the Philippines who enjoys building things — web apps, g
 
 ---
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zernanvash&style=flat-square&color=003300&label=visitors" />
-</p>
-
-<!-- BOTTOM: radar scan — flipped, green matrix footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:020c02&height=90&section=footer&animation=fadeIn"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,60:005500,100:020c02&height=6&section=footer&animation=fadeIn"/>
-</p>
