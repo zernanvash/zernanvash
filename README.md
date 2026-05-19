@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Zernan
+# Hallo, I'm Zernan
 
-I'm a CS student from the Philippines who enjoys building things — web apps, games, and tools. Currently diving deeper into computer science fundamentals, reverse engineering, and game development.
+a CS student who builds things — web apps, games, and tools. Currently diving deeper into computer science fundamentals, CTFs, reverse engineering, and game development.
 
 - 🎮 Exploring **game development**
 - 🔬 Learning **computer science** & **reverse engineering**
