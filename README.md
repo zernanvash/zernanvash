@@ -37,5 +37,9 @@ a CS student who builds things — web apps, games, and tools. Currently diving 
 - **[quiz-reviewer](https://github.com/zernanvash/quiz-reviewer)** — Quiz reviewer app
 - **[LvlUp](https://github.com/zernanvash/LvlUp)** — Software engineering project
 
+### Game Projects(First year)
+- **[tic tac toe](https://github.com/zernanvash/tic-tac-toe)** — Java Swing
+- **[Some Airplane Game(NSFW)](https://github.com/zernanvash/airplane_game)** — Java Swing
+- **[Snek Gem](https://github.com/zernanvash/snekgame)** — Java Swing
 ---
 
