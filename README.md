@@ -4,8 +4,7 @@ a CS student who builds things — web apps, games, and tools. Currently diving 
 
 - **game development**
 - **computer science** & **reverse engineering**
-- 🛠️ Building
-- 🌱 Always working on something new
+- Building, Always working on something new
 
 ---
 
