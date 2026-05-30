@@ -2,14 +2,14 @@
 
 a CS student who builds things — web apps, games, and tools. Currently diving deeper into computer science fundamentals, CTFs, reverse engineering, and game development.
 
-- 🎮 Exploring **game development**
-- 🔬 Learning **computer science** & **reverse engineering**
-- 🛠️ Building with **JavaScript, C++, PHP, Python**
+- **game development**
+- **computer science** & **reverse engineering**
+- 🛠️ Building
 - 🌱 Always working on something new
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -22,7 +22,7 @@ a CS student who builds things — web apps, games, and tools. Currently diving 
 
 ---
 
-### 📊 GitHub Stats
+### Stats
 
 ![zernanvash's Stats](https://github-readme-stats.shion.dev/api?username=zernanvash&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
@@ -32,11 +32,10 @@ a CS student who builds things — web apps, games, and tools. Currently diving 
 
 ---
 
-### 📌 Projects
+### Current Projects
 
 - **[numerical-method-solver](https://github.com/zernanvash/numerical-method-solver)** — Numerical methods algorithms in C++
 - **[quiz-reviewer](https://github.com/zernanvash/quiz-reviewer)** — Quiz reviewer app
-- **[NearBaYan-BETA](https://github.com/zernanvash/NearBaYan-BETA)** — Location-based app
 - **[LvlUp](https://github.com/zernanvash/LvlUp)** — Software engineering project
 
 ---
