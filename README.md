@@ -1,7 +1,8 @@
 # Hallo, I'm Zernan
 
 a CS student who studies web apps, games, and cybersecurity. Currently into CTFs, software engineering, and game development.
-[Portfolio](https://zernanvash.dev) (Soon)
+
+[Personal Portfolio](https://zernanvash.dev) (Soon)
 
 **CTF focus:**
 - Programming
