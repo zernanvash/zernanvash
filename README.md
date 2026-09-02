@@ -1,11 +1,11 @@
 # Hallo, I'm Zernan
 
-a CS student who builds things — web apps, games, and tools. Currently into CTFs, software engineering, and game development.
+a CS student who studies web apps, games, and cybersecurity. Currently into CTFs, software engineering, and game development.
 
 **CTF focus:**
 - Programming
 - Cryptography
-- Reverse Engineering
+- Reverse Engineering/Binary Analysis
 - Forensics
 
 **Game Development:**
