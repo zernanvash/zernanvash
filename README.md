@@ -1,10 +1,16 @@
 # Hallo, I'm Zernan
 
-a CS student who builds things — web apps, games, and tools. Currently diving deeper into computer science fundamentals, CTFs, reverse engineering, and game development.
+a CS student who builds things — web apps, games, and tools. Currently into CTFs, software engineering, and game development.
 
-- **game development**
-- **computer science** & **reverse engineering**
-- Building, Always working on something new
+**CTF focus:**
+- Programming
+- Cryptography
+- Reverse Engineering
+- Forensics
+
+**Game Development:**
+- 3D Modelling
+- Story Building
 
 ---
 
