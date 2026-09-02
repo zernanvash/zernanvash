@@ -4,6 +4,8 @@ a CS student who studies web apps, games, and cybersecurity. Currently into CTFs
 
 [Personal Portfolio](https://zernanvash.dev) (Soon)
 
+---
+
 **CTF focus:**
 - Programming
 - Cryptography
